@@ -10,4 +10,5 @@
 
 ### 목차
 
-1. [항해 플러스 1주차 후기](https://github.com/yoosion030/hanghae-plus/blob/main/%ED%95%AD%ED%95%B4%ED%94%8C%EB%9F%AC%EC%8A%A4_1%EC%A3%BC%EC%B0%A8_%ED%9B%84%EA%B8%B0.md)
+1. [항해 플러스 1주차 후기](/항해플러스_1주차_후기.md)
+2. [항해 플러스 2주차 후기](/항해플러스_2주차_후기.md)
